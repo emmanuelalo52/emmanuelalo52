@@ -2,7 +2,7 @@
 
 <!--
 **emmanuelalo52/emmanuelalo52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+With 3 years of software engineering expertise and 2 years of specialized experience in Machine Learning. Proficient in Data Structures and Algorithms, I am known for logical thinking, determination, assertiveness, and a disciplined work approach. My strong technical acumen and adept data manipulation skills complement my background in Machine Learning algorithms. Currently, I am focused on deepening my expertise in Machine Learning pipelining, and as a Rust developer, I am committed to leveraging my skills to contribute to high-performance software solutions in this language. My passion for software development drives me to stay abreast of the latest advancements in the field and continuously refine my skills to deliver cutting-edge solutions.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
