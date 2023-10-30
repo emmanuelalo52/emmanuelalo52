@@ -1,6 +1,23 @@
 ### Hi there 👋
-I am Emmanuel, I'm called Manny amongst my friends.
-With 3 years of software engineering expertise and 2 years of specialized experience in Machine Learning. Proficient in Data Structures and Algorithms, I am known for logical thinking, determination, assertiveness, and a disciplined work approach. My strong technical acumen and adept data manipulation skills complement my background in Machine Learning algorithms. Currently, I am focused on deepening my expertise in Machine Learning pipelining, and as a Rust developer, I am committed to leveraging my skills to contribute to high-performance software solutions in this language. My passion for software development drives me to stay abreast of the latest advancements in the field and continuously refine my skills to deliver cutting-edge solutions.
+I am Emmanuel, known as Manny among my friends. With 3 years of software engineering expertise and 2 years of specialized experience in Machine Learning, I bring a wealth of knowledge and skills to the field.
+
+## Expertise
+
+- **Software Engineering**: With a strong foundation in software engineering, I have honed my skills over three years, working on various projects and tackling complex challenges.
+
+- **Machine Learning**: My two years of dedicated experience in Machine Learning have allowed me to delve deep into the world of data science and artificial intelligence. I excel in building and deploying ML models.
+
+- **Data Structures and Algorithms**: Proficiency in data structures and algorithms is at the core of my technical abilities. I have a solid grasp of these fundamental concepts.
+
+## Rust Development
+
+As a Rust developer, I am committed to leveraging my skills to contribute to high-performance software solutions in this language. Rust's focus on safety and performance aligns with my passion for delivering top-notch software.
+
+## Passion for Software Development
+
+My passion for software development is a driving force in my career. I stay abreast of the latest advancements in the field and continuously refine my skills to deliver cutting-edge solutions. I am dedicated to pushing the boundaries of what is possible in software engineering.
+
+Feel free to connect with me to explore potential collaborations or discuss exciting projects in the world of software and Machine Learning.
 
 <!--
 **emmanuelalo52/emmanuelalo52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
