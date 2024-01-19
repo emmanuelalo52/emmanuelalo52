@@ -13,22 +13,30 @@ I am Emmanuel, known as Manny among my friends. With 3 years of software enginee
 
 As a Rust developer, I am committed to leveraging my skills to contribute to high-performance software solutions in this language. Rust's focus on safety and performance aligns with my passion for delivering top-notch software.
 
+## Go Language Enthusiast
+
+As a Go enthusiast, I leverage the language's simplicity and efficiency for building robust applications. The provided repository showcases a simple book management system implemented in Go using the Gin web framework.
+
+## NLP and Transformers
+
+My work extends to the exciting realm of Natural Language Processing (NLP), where I leverage transformers to build state-of-the-art language models (LLM). If you're interested in the intersection of language and technology, you might find my projects intriguing.
+
 ## Passion for Software Development
 
 My passion for software development is a driving force in my career. I stay abreast of the latest advancements in the field and continuously refine my skills to deliver cutting-edge solutions. I am dedicated to pushing the boundaries of what is possible in software engineering.
 
+## 📫 How to reach me:
+
+- **LinkedIn**: [Emmanuel's LinkedIn](https://www.linkedin.com/in/emmanuel-alo-b96010171/)
+- **Email**: emmanuelalo52@gmail.com
 Feel free to connect with me to explore potential collaborations or discuss exciting projects in the world of software and Machine Learning.
 
 <!--
 **emmanuelalo52/emmanuelalo52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: A distributed Service
+- 🌱 I’m currently learning: Go lang and LLm
+- 👯 I’m looking to collaborate on: Deep learning
+- 🤔 I’m looking for help with: multi modal models
 -->
