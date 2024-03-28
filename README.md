@@ -40,3 +40,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: Deep learning
 - 🤔 I’m looking for help with: multi modal models
 -->
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuelalo52&theme=cobalt&show_icons=true&&line_height=40)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelalo52&theme=cobalt&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/emmanuelalo52)  
