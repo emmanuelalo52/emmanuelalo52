@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Emmanuel, known as Manny among my friends. With 3 years of software engineering expertise and 2 years of specialized experience in Machine Learning, I bring a wealth of knowledge and skills to the field.
+I am Emmanuel, known as Manny among my friends. With 5 years of software engineering expertise and 4 years of specialized experience in Machine Learning, I bring a wealth of knowledge and skills to the field.
 
 ## Expertise
 
