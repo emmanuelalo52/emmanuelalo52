@@ -3,9 +3,9 @@ I am Emmanuel, known as Manny among my friends. With 5 years of software enginee
 
 ## Expertise
 
-- **Software Engineering**: With a strong foundation in software engineering, I have honed my skills over three years, working on various projects and tackling complex challenges.
+- **Software Engineering**: With a strong foundation in software engineering, I have honed my skills over five years, working on various projects and tackling complex challenges.
 
-- **Machine Learning**: My two years of dedicated experience in Machine Learning have allowed me to delve deep into the world of data science and artificial intelligence. I excel in building and deploying ML models.
+- **Machine Learning**: My four years of dedicated experience in Machine Learning have allowed me to delve deep into the world of data science and artificial intelligence. I excel in building and deploying ML models.
 
 - **Data Structures and Algorithms**: Proficiency in data structures and algorithms is at the core of my technical abilities. I have a solid grasp of these fundamental concepts.
 
