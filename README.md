@@ -14,18 +14,6 @@ I'm Emmanuel, also known as Manny. With 5 years of software engineering experien
 
 ---
 
-## Rust Development
-
-As a Rust developer, I specialize in high-performance software engineering, optimizing ML pipelines, and leveraging Rust's safety features to build reliable, efficient solutions.
-
----
-
-## Go Language Enthusiast
-
-My expertise in Go includes building backend services and high-throughput microservices. One of my recent projects includes a robust book management system developed with the Gin web framework, showcasing Go's efficiency and simplicity.
-
----
-
 ## NLP and Transformers
 
 With a focus on NLP, I leverage Hugging Face Transformers to develop advanced language models (LLMs) for tasks like text summarization and question answering. My work bridges machine understanding and language, creating systems that enhance human-computer interaction.
