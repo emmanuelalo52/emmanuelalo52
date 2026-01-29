@@ -1,4 +1,4 @@
-# 🚀 Hey there, I’m Emmanuel (a.k.a. Manny) 👋  
+# 🚀 Hey there, I’m Emmanuel👋  
 
 I’m a **Software Engineer** with 5+ years of experience, including 3 years deep in the trenches of **Machine Learning, NLP, and GPU programming**. I love building things that are not only powerful but also **efficient, scalable, and fun to use**.  
 
